@@ -1,3 +1,3 @@
 # SAVE CODE
 
-This repository was created to save some file from MSIB
+Github Users was an Andorid Application that show list all Github user account using Github API
