@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GithubUsers3.0</string>
+    <string name="search_hint">Search here</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_username">username</string>
+    <string name="dummy_name">name</string>
+    <string name="profile_detail">Profile Detail</string>
+    <string name="bullet">•</string>
+    <string name="dummy_company">company</string>
+    <string name="dummy_location">Location</string>
+    <string name="followers">Followers</string>
+    <string name="dummy_following">1000</string>
+    <string name="dummy_followers">200k</string>
+    <string name="dummy_repository">repository</string>
+    <string name="close">Close</string>
+    <string name="tab_text_1">Profile</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="tab_text_3">Following</string>
+    <string name="following">Following</string>
+    <string name="notfound">Not Found</string>
+    <string name="usernotfound">User not found</string>
+    <string name="connectionfailed">Connection failed</string>
+    <string name="welcomeback">Welcome back!</string>
+    <string name="company">Company:</string>
+    <string name="location">Location:</string>
+    <string name="followers_not_found">Followers not found</string>
+    <string name="following_not_found">Following not found</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="favorite_empty">Favorite\'s is empty</string>
+    <string name="activity_favorite">Favorite</string>
+    <string name="dark_theme">Dark Theme :</string>
+    <string name="settings">Settings</string>
+</resources>
